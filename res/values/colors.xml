@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bold Executive Vault Palette -->
+    <color name="primary_dark">#000000</color>
+    <color name="accent_cyan">#00E5FF</color>
+    <color name="surface_grey">#121212</color>
+    <color name="surface_card">#1A1A1A</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#BDBDBD</color>
+
+    <!-- UI Component Mapping -->
+    <color name="primary">@color/accent_cyan</color>
+    <color name="background">@color/primary_dark</color>
+    <color name="surface">@color/surface_grey</color>
+    <color name="on_surface">@color/text_primary</color>
+    <color name="divider">#333333</color>
+
+    <!-- Bold Card Colors (Aligned with Cyan Theme) -->
+    <color name="type_license">#0D47A1</color> <!-- Deep Solid Blue -->
+    <color name="type_id">#4A148C</color>      <!-- Deep Solid Purple -->
+    <color name="type_passport">#1B5E20</color>  <!-- Deep Solid Green -->
+    <color name="type_invoice">#BF360C</color>   <!-- Deep Solid Orange -->
+    <color name="type_certificate">#004D40</color> <!-- Deep Solid Teal -->
+    <color name="type_other">#1A1A1A</color>
+    
+    <!-- IMPORTANT DOCS: Now using "Cyber Glow Cyan" instead of Red -->
+    <color name="type_important">#003135</color> <!-- Deep Cyan-Black -->
+    <color name="red_important">#00E5FF</color>  <!-- Matches your UI Cyan -->
+
+    <!-- Keep a separate red for the Delete/Purge actions -->
+    <color name="system_error">#FF1744</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

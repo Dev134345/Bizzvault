@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield Frame -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,15C42,15 32,20 25,30C25,55 35,80 54,93C73,80 83,55 83,30C76,20 66,15 54,15ZM54,85C40,74 32,55 32,35C38,28 46,24 54,24C62,24 70,28 76,35C76,55 68,74 54,85Z" />
+    
+    <!-- Inner Lock Bolt -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,45C44,40 48,36 54,36C60,36 64,40 64,45V50H68V68H40V50H44V45ZM58,45C58,43 56,41 54,41C52,41 50,43 50,45V50H58V45ZM54,55C52,55 51,57 51,59C51,61 52,63 54,63C56,63 57,61 57,59C57,57 56,55 54,55Z" />
+
+</vector>
